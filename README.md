@@ -1,4 +1,4 @@
-# 🧠 Doğal Dil İçleme (NLP) — Açık Kaynak Sistem Mimarisi
+# 🧠 Doğal Dil İşleme (NLP) — Açık Kaynak Sistem Mimarisi
 
 SCÜ Şarkışla UBYO | Bilişim Sistemleri ve Teknolojileri Bölümü | 4. Sınıf
 
@@ -10,7 +10,7 @@ Bu depo, Doğal Dil İşleme dersinin **laboratuvar merkezi, yerelleştirilmiş 
 
 ## 📂 Depo Yapısı
 
-Depo **bölüm bazlı** klasörlerden oluşur. Her bölüm altında **konu klasörleri**, her konu altında **4 içerik türü** bulunur:
+Depo **bölüm bazlı** klasörlerden oluşur. Her bölüm altında **konu klasörleri**, her konu altında **5 içerik türü** bulunur:
 
 ```
 nlp-dersi/
